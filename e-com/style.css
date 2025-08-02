@@ -1,0 +1,46 @@
+
+
+
+
+*{
+   font-family: "Poppins", sans-serif;
+}
+
+
+.logo h1{
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+}
+.header{
+    margin-top: 20px;
+}
+
+
+.logo h1 span:first-of-type{
+    padding: 5px 15px;
+    border: 1px solid #ddd;
+    margin-right: 5px;
+    margin-top: 5px;
+    color: #d19c97;
+}
+.search_product input {
+    width: 70%;
+    height: 40px;
+    margin-top: 5px;
+    border-radius: 3px;
+    font-size: 17px;
+    padding: 10px;
+    color: #666;
+    border: 1px solid #ddd;
+    border-right: none;
+}
+.search_product button {
+    height:40px;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 2px;
+    border: 1px solid #ddd;
+    color: #D19C97;
+    background-color: #fff;
+}
