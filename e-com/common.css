@@ -50,4 +50,6 @@ body{
 .next.row{
     clear: both;
 }
-.snasknaks
+.full-banner-wrapper{
+    border: 1px solid #ddd;
+}
